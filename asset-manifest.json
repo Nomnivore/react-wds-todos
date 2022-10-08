@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/react-wds-todos/static/js/main.dec33012.js",
+    "main.css": "/react-wds-todos/static/css/main.09c21e34.css",
+    "main.js": "/react-wds-todos/static/js/main.1aa765b0.js",
+    "static/media/material-symbols-rounded.woff2": "/react-wds-todos/static/media/material-symbols-rounded.c4a3c850ca8076a8b107.woff2",
+    "static/media/material-symbols-outlined.woff2": "/react-wds-todos/static/media/material-symbols-outlined.ff17f57ca01932702b34.woff2",
+    "static/media/material-symbols-sharp.woff2": "/react-wds-todos/static/media/material-symbols-sharp.742a2970124e8c32ad22.woff2",
     "index.html": "/react-wds-todos/index.html",
-    "main.dec33012.js.map": "/react-wds-todos/static/js/main.dec33012.js.map"
+    "main.09c21e34.css.map": "/react-wds-todos/static/css/main.09c21e34.css.map",
+    "main.1aa765b0.js.map": "/react-wds-todos/static/js/main.1aa765b0.js.map"
   },
   "entrypoints": [
-    "static/js/main.dec33012.js"
+    "static/css/main.09c21e34.css",
+    "static/js/main.1aa765b0.js"
   ]
 }
